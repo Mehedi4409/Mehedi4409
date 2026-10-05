@@ -37,15 +37,6 @@ My true passion lies in crafting robust **system designs, system architectures, 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 > *"A good architecture maximizes the number of decisions not made."*  

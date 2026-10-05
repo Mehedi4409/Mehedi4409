@@ -1,67 +1,54 @@
+<!-- Header Banner / Custom Graphic -->
 <div align="center">
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E5BFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B,+I'm+Mehedi+Hasan+Sadi;Full-Stack+Developer;CSE+Undergrad+Student" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <strong>Computer Science & Engineering Student | Full-Stack Developer</strong>
-  </p>
-
-  <!-- Social & Contact Badges -->
-  
+  <img src="https://via.placeholder.com/1200x300/111827/EF4444?text=MEHEDI+HASAN+SADI+%7C+FULL+STACK+DEVELOPER" alt="Mehedi Hasan Sadi Banner" width="100%" />
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## 🧙‍♂️ About Me
 
-- 🎓 **Education:** Computer Science & Engineering Undergraduate
-- 💻 **Core Focus:** Building high-performance web applications and sleek digital experiences.
-- 🛠️ **Current Focus:** Deep-diving into database systems and interactive web animation.
-- 📫 **How to reach me:** Drop an email or connect with me on LinkedIn!
+I'm a **Full Stack Web Developer** and a **Computer Science & Engineering student at Leading University, Sylhet**. I enjoy building innovative web applications, crafting smooth user interfaces, and tackling complex technical challenges. I am constantly expanding my knowledge across full-stack systems, mobile development, and low-level computer science concepts!
 
 ---
 
-### 💻 Tech Stack & Tools
+## 🚀 Latest Activities
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <br/>
-  
-  <!-- Frontend & Design -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <br/>
+* 🔥 **Exploring modern backend architectures** and real-time database integrations.
+* 💻 **Developing full-stack web applications** using the MERN stack and Tailwind CSS.
+* 🎨 **Crafting interactive UI components** with Framer Motion and modern design patterns.
+* 📚 **Deep-diving into system fundamentals**, programming in C++, and compiler construction.
+* ⚡ **Building mobile interfaces** using Flutter and Supabase backend services.
+* 🎯 **Aiming to scale custom software solutions** and agency project pipelines.
 
-  <!-- Backend & Databases -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+---
+
+## 🤝 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Mail-82C91E?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-008080?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+## 💻 Tech Stack
 
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <br/><br/>
-
-  <!-- Stats & Streak Counter -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| **Languages & Tools** | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> |
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ by Mehedi Hasan Sadi</sub>
-</div>
+## ✍️ Random Dev Quote
+
+> *"Documentation is a love letter that you write to your future self."*  
+> — **Damian Conway**
